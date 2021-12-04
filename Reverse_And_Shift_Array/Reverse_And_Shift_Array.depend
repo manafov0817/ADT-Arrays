@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638464135 source:d:\programming\masteringdatastructuresandalgorithms\adtforarrays\reverse_and_shift_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
