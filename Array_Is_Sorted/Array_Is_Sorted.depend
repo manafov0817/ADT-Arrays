@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638467013 source:d:\programming\masteringdatastructuresandalgorithms\adtforarrays\array_is_sorted\main.c
+	<stdio.h>
+	<stdlib.h>
+

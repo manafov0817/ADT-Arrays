@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638619416 source:d:\programming\masteringdatastructuresandalgorithms\adtforarrays\put_all_together\main.c
+	<stdio.h>
+	<stdlib.h>
+

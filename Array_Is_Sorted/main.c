@@ -292,6 +292,8 @@ void Rearrange(struct Array *arr){
 
 }
 
+
+
 int main()
 {
 
